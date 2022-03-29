@@ -1,0 +1,46 @@
+from{
+    background-color: rgba(72, 167, 96, 0.49);
+    padding: 50px;
+}
+.row{
+    display:flex;
+    padding: 10px;
+}
+.inp{
+    position: absolute;
+    left: 150px;
+}
+.inp1{
+    position: absolute;
+    left: 150px;
+    margin-bottom: 10px;
+}
+.sp{
+    position: absolute;
+    left: 200px;
+    width: max-content;
+}
+.gen,
+.lan{
+    margin-bottom: 20px;
+}
+.form-horizontal{
+    display: flex;
+}
+.selection{
+    display: flex;
+    margin-bottom: 10px;
+}
+#statusOfLanguage,
+#statusOfGender{
+    position: absolute;
+    top: 0px;
+}
+#txtAbout{
+    height: 100px;
+}
+.btn{
+    position: absolute;
+    top: 600px;
+    left: 150px
+}
